@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEB02A</color>
+    <color name="colorPrimaryDark">#FFDA89</color>
+    <color name="colorAccent">#FF9E80</color>
+    <color name="orangemuda">#EAAD93</color>
+    <color name="orangemhambar">#FFF8E6</color>
+
+    <color name="btnSignIn">#1fbad6</color>
+    <color name="btnRegister">#83838c</color>
+    <color name="hijaudaun">#7FC6A0</color>
+
+
+    <color name="bottom_text">#6b6b76</color>
+    <color name="md_white_1000">#ffffff</color>
+
+
+    <color name="material_blue_grey_700">#455A64</color>
+    <color name="splash_bg_color">#ffaf04</color>
+
+    <color name="colorPrimarySoft">#bf890e</color>
+    <color name="colorPrimaryBuilding">#000</color>
+
+    <color name="directionLine">#000</color>
+
+    <color name="blueSoft">#e7f1f5</color>
+    <color name="grey">#999ea0</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="brown">#b87e00</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#044271</color>
+    <color name="lightGrey">#f4f4f4</color>
+
+    <color name="blackTransparent">#a0000000</color>
+    <color name="GanRide">#e99e23</color>
+    <color name="GanCar">#17619d</color>
+    <color name="GanSend">#8bc440</color>
+    <color name="GanBox">#95663e</color>
+    <color name="GanMart">#c83779</color>
+    <color name="GanMassage">#0bac79</color>
+    <color name="GanFood">#d13636</color>
+    <color name="GanService">#36b5d1</color>
+</resources>

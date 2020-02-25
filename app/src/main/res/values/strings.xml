@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">LEO ONLINE FOOD</string>
+    <string name="requireemail">Please enter email address</string>
+    <string name="requirepassword">Please enter password</string>
+    <string name="requirename">Please enter name</string>
+    <string name="messageregister">please use email and password to register</string>
+    <string name="messagelogin">please use email and password to login</string>
+    <string name="requirephone">Please enter phone</string>
+    <string name="food_noRecordFound">Tidak ada hasil.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_go_ride">Map</string>
+    <string name="title_activity_detail_driver">Map</string>
+    <string name="titleregis">register</string>
+    <string name="posregis">iya</string>
+    <string name="neregis">tidak</string>
+    <string name="str_ok">oke</string>
+    <string name="str_cancel">cancel</string>
+    <string name="login">login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_makanan">MakananActivity</string>
+    <string name="titlelogin">login</string>
+    <string name="title_activity_detail_order">Map</string>
+    <string name="l_e_o_o_n_l_i_n_e_f_o_o_d">LEO ONLINE FOOD</string>
+    <string name="requirealamat">alamat tidak boleh kosong</string>
+    <string name="title_activity_utama">UtamaActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="food_searchRestaurant">Cari Restoran</string>
+    <string name="food_search">Mau makan apa hari ini?</string>
+    <string name="food_minimum3Chars">Minimum 3 huruf</string>
+    <string name="food_tryAnotherSearchTerm">Tidak ada hasil, coba kata kunci lain.</string>
+    <string name="home_mFood">makanan</string>
+    <string name="food_closed">tutup</string>
+    <string name="food_partner">mitra</string>
+    <string name="food_menu">menu</string>
+    <string name="food_estimated">perkiraan harga</string>
+    <string name="food_itemsToOrder">makanan yang dipesan</string>
+    <string name="food_deliver">dikirim ke</string>
+    <string name="food_destination">tambahkan lokasi tujuan</string>
+    <string name="food_addNotes">tambah catatan</string>
+    <string name="food_payment">detail pembayaran</string>
+    <string name="food_cost">Biaya (Est)</string>
+    <string name="food_total">Total Harga</string>
+    <string name="food_cash">tunai</string>
+    <string name="food_pay">bayar dengan</string>
+    <string name="text_mPay">saldo</string>
+    <string name="text_cash">tunai</string>
+    <string name="text_updating">memperbaharui</string>
+    <string name="text_topUp">isi saldo</string>
+    <string name="ride_discount">Diskon 20% jika menggunakan SALDO</string>
+    <string name="text_order">Pesan</string>
+    <string name="register">REGISTERR</string>
+
+</resources>
